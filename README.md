@@ -1,3 +1,3 @@
 # Demo
 This is my Demo project.
-Author - Anthara
+Author - Anthara Gangone
